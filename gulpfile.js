@@ -48,9 +48,6 @@ gulp.task('watch', function(){
 });
 
 
-var gulp = require('gulp');
-var browserify = require('gulp-browserify');
- 
 gulp.task('serve', function () {
   return gulp.src(paths.tmp)
     .pipe(webserver({
