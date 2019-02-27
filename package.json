@@ -1,0 +1,30 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "Static site is created for we UI developers. It can compile SCSS, start a server and also it has live reload.",
+  "main": "assets/js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+      "repository": {
+      "type": "git",
+      "url": "https://github.com/swasatz/static-site"
+  },
+     "keywords": [
+        "HTML/CSS",
+        "SASS",
+        "SCSS",
+        "live reload",
+         ""
+    ],
+  "author": "Satheesh Kumar S",
+    "Organisation": "Mallow Technologies",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-livereload": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {}
+}
