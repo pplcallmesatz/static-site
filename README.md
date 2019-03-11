@@ -1,11 +1,20 @@
+# Static Site
 If you want to start a new static web project, this is useful for you. It has predefined settings for SCSS to CSS compilation, Live Reload,  starting a local server.
 
-Requirements
+<br/>
+<br/>
+
+## System Requirements
 For using this service,  your machine needs to have Node.js and Gulp pre-installed. If you did didn't have those please find the installation method. 
 1. [Node.js](https://nodejs.org/en/)
-2. [Gulp](https://gulpjs.com/docs/en/getting-started/quick-start) or run `npm install --global gulp-cli` in  terminal
+2. [Gulp](https://gulpjs.com/docs/en/getting-started/quick-start) or run `sudo npm install --global gulp-cli` in  terminal
 
 **Note:** You just need to install Node.js and Gulp, no need to create a project. 
+
+
+<br/>
+<br/>
+
 
 Documentation
 -------------
@@ -50,6 +59,10 @@ Starting the project for next time, you didn't need to run above app.
 - Run `gulp watch & gulp serve`
 
 **Reference in attachment.**
+
+<br/>
+<br/>
+<br/>
 
 ## Mixins
 The main purpose of a mixin is to make a set of properties reusable. Like Sass variables (where you define your values on a single location), Sass mixins allow you to define properties on a single location.
