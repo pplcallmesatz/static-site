@@ -82,7 +82,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <br/>
 
 ## Social
-[Dribbble](https://dribbble.com/satheesh_design)
-[Codepen](https://codepen.io/satheesh_design/)
-[Stackoverflow](https://stackoverflow.com/users/5746301/satheesh-kumar)
-[Medium](https://medium.com/@satheesh_design)
+<a href="https://dribbble.com/satheesh_design" target="_blank">Dribbble</a><br/>
+<a href="https://codepen.io/satheesh_design/" target="_blank">Codepen</a><br/>
+<a href="https://stackoverflow.com/users/5746301/satheesh-kumar" target="_blank">Stackoverflow</a><br/>
+<a href="https://medium.com/@satheesh_design" target="_blank">Medium</a><br/>
