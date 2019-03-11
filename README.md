@@ -1,4 +1,4 @@
-# ![Static Web Logo](https://satheesh-design.in/static-web-app/logo-sm.png "Static Web Logo") Static Web Site
+![Static Web Logo](https://satheesh-design.in/static-web-app/logo-sm.png "Static Web Logo") <br/>
 
 ## Our Goal
 
