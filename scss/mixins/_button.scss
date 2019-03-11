@@ -1,0 +1,131 @@
+//Mixins
+@mixin btn($bg, $txt-clr) {  
+         background: $bg;
+    color: $txt-clr;
+    border: 1px solid $bg;
+    outline: none;
+    @include prefixer(transition, all 0.3s ease);
+  &:hover {
+    background:lighten($bg,8%);
+      border-color: lighten($bg,8%);
+      color: $txt-clr;
+  }
+  &:active {
+   background:lighten($bg,8%) !important;
+            border-color: lighten($bg,8%);  
+          outline: none;
+          color: $txt-clr;
+      &:focus{
+     background:lighten($bg,8%);
+            border-color: lighten($bg,8%);  
+          outline: none;
+          color: $txt-clr;
+    }
+      &:hover,{
+      background:lighten($bg,8%);
+            border-color: lighten($bg,8%);  
+          outline: none;
+          color: $txt-clr;
+    }
+      &:visited{
+       background:lighten($bg,8%);
+            border-color: lighten($bg,8%);  
+          outline: none;
+          color: $txt-clr;
+    }
+  } 
+    &:focus{
+      background:lighten($bg,8%);
+            border-color: lighten($bg,8%);
+        outline: none;
+    }
+}
+
+
+
+@mixin btn-link($bg) {  
+         background: transparent;
+    color: $bg;
+    border: 1px solid transparent;
+    outline: none;
+    @include prefixer(transition, all 0.3s ease);
+  &:hover {
+    background:transparent;
+      border-color: transparent;
+      color: $bg;
+  }
+  &:active {
+   background:transparent;
+            border-color: transparent;  
+          outline: none;
+          color: $bg;
+      &:focus{
+     background:transparent;
+            border-color: transparent;  
+          outline: none;
+          color: $bg;
+    }
+      &:hover{
+      background:transparent;
+            border-color: transparent;  
+          outline: none;
+          color: $bg;
+    }
+      &:visited{
+       background:transparent;
+            border-color: transparent;  
+          outline: none;
+          color: $bg;
+    }
+  } 
+    &:focus{
+      background:transparent;
+            border-color: $bg;
+        outline: none;
+    }
+}
+
+
+
+
+@mixin btn-outline($bg) {  
+         background: transparent;
+    color: $bg;
+    border: 1px solid $bg;
+    outline: none;
+    @include prefixer(transition, all 0.3s ease);
+  &:hover {
+    background:transparent;
+      border-color: lighten($bg, 8%);
+      color: lighten($bg, 8%);
+  }
+  &:active {
+   background:transparent;
+            border-color: lighten($bg, 8%);  
+          outline: none;
+          color: lighten($bg, 8%);
+      &:focus{
+     background:transparent;
+            border-color: lighten($bg, 8%);  
+          outline: none;
+          color: lighten($bg, 8%);
+    }
+      &:hover{
+      background:transparent;
+            border-color: lighten($bg, 8%);  
+          outline: none;
+          color: lighten($bg, 8%);
+    }
+      &:visited{
+       background:transparent;
+            border-color: lighten($bg, 8%);  
+          outline: none;
+          color: lighten($bg, 8%);
+    }
+  } 
+    &:focus{
+      background:transparent;
+            border-color: lighten($bg, 8%);
+        outline: none;
+    }
+}

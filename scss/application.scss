@@ -1,7 +1,12 @@
-body{
-    background-color: green;
-    color: #fff;
-}
-.navbar{
-    display: none;
-}
+//Style guide of the site
+@import "variables";
+
+//Mixins 
+@import "mixins/media-queries";
+@import "mixins/prefixer";
+@import "mixins/button";
+@import "mixins/background";
+
+//Your styles
+//Add the files if it has global styles
+@import "general";

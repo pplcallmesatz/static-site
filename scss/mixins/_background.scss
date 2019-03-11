@@ -1,0 +1,10 @@
+$imagedir:'../img/'; // define the base path before the mixin
+
+@mixin bg($filename, $size, $position: center) {
+    background: {
+        image:url(#{$imagedir}#{$filename});
+        size: $size;
+        repeat: no-repeat;
+        position: $position;
+    }
+}
