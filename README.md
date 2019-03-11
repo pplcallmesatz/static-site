@@ -1,7 +1,6 @@
-![Static Web Logo](https://satheesh-design.in/static-web-app/logo-sm.png "Static Web Logo")
-# Static Web Site
+# Static Web Site ![Static Web Logo](https://satheesh-design.in/static-web-app/logo-sm.png "Static Web Logo")
 
-**Our Goal**
+## Our Goal
 
 Our goal is to create a static web page set up, working with SCSS. There are some dependencies to compile the SCSS to CSS, starting a local server and also browser live reload. Here is the boilerplate to automate all this process in simple steps. It also includes documentation for some mixins. Which made you easy to play :stuck_out_tongue_winking_eye: with mixins.
 
@@ -69,12 +68,21 @@ You can see the full [documentation here.](https://github.com/swasatz/static-sit
 
 Licensing
 ---------
-Copyright 2019 Satheesh Kumar S
-
+Copyright © 2019, Satheesh Kumar S
 Organization [**Mallow Technologies Private Limited**](https://www.mallow-tech.com/)
+All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+<br/>
+<br/>
+
+## Social
+[Dribbble](https://dribbble.com/satheesh_design)
+[Codepen](https://codepen.io/satheesh_design/)
+[Stackoverflow](https://stackoverflow.com/users/5746301/satheesh-kumar)
+[Medium](https://medium.com/@satheesh_design)
