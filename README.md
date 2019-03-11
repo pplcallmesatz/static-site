@@ -43,7 +43,7 @@ That's it you are all set, open http://localhost:3000/ in the browser. If any ch
 
 ## Mac app
 **:computer:**
-This is only of the Mac users, simply download the mac app and run.
+This is only of the Mac users, simply [download the mac app and run.](https://satheesh-design.in/static-web-app/Static-web-setup.zip)
 Since it needs to access external app(terminal) we need to give permission to allow access(Reference in attachment).
 
 Starting the project for next time, you didn't need to run above app. 
