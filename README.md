@@ -1,7 +1,9 @@
-# Static Site
+![Static Web Logo](https://satheesh-design.in/static-web-app/logo-sm.png "Static Web Logo")
+# Static Web Site
+
+**Our Goal**
+
 If you want to start a new static web project, this is useful for you. It has predefined settings for SCSS to CSS compilation, Live Reload,  starting a local server.
-
-
 It also has an advantage of predefined mixins for the following
 - Background
 - Buttons
