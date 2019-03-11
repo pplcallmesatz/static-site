@@ -1,0 +1,46 @@
+
+
+//Media Queries
+@mixin media($point) {
+  
+  $media-xs: "(max-width: 600px)";
+  $media-sm: "(min-width: 768px)";
+  $media-sm-max: "(max-width: 767px)";
+  $media-md: "(min-width: 992px)";
+  $media-md-max: "(max-width: 991px)";
+  $media-lg: "(min-width: 1200px)";
+  $media-lg-max: "(max-width: 1199px)";
+  $media-xlg: "(min-width: 1300px)";
+  $media-xlg-max: "(max-width: 1299px)";
+
+  @if $point == xs {
+    @media #{$media-xs} { @content; }
+  }
+  @else if $point == sm {
+    @media #{$media-sm} { @content; }
+  }
+  
+  @else if $point == md {
+    @media #{$media-md}  { @content; }
+  }
+    
+    @else if $point == lg {
+    @media #{$media-lg}  { @content; }
+  }
+    @else if $point == xlg {
+    @media #{$media-xlg}  { @content; }
+  }
+       @else if $point == sm-max {
+    @media #{$media-sm-max} { @content; }
+  }
+     @else if $point == md-max {
+    @media #{$media-md-max}  { @content; }
+  }
+     @else if $point == lg-max {
+    @media #{$media-lg-max}  { @content; }
+  }
+    @else if $point == xlg-max {
+    @media #{$media-xlg-max}  { @content; }
+  }
+
+}
