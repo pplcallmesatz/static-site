@@ -1,6 +1,8 @@
 # Mixins
 
-
+```bash
+git clone --single-branch --branch mixins https://github.com/swasatz/static-site.git
+```
 
 
 ```bash
