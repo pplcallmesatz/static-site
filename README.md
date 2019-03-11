@@ -1,10 +1,17 @@
 # Static Site
 If you want to start a new static web project, this is useful for you. It has predefined settings for SCSS to CSS compilation, Live Reload,  starting a local server.
 
+
+It also has an advantage of predefined mixins for the following
+- Background
+- Buttons
+- Prefixer
+- Media queries 
+
 <br/>
 
 ## System Requirements
-For using this service,  your machine needs to have Node.js and Gulp pre-installed. If you did didn't have those please find the installation method. 
+For using this service,  your machine needs to have Node.js and Gulp pre-installed. If you did didn't have those please find the installation method. This is used to compile the `SCSS`, `livereload` and also for starting `local server`.
 1. [Node.js](https://nodejs.org/en/)
 2. [Gulp](https://gulpjs.com/docs/en/getting-started/quick-start) or run `sudo npm install --global gulp-cli` in  terminal
 
@@ -50,6 +57,8 @@ Starting the project for next time, you didn't need to run above app.
 - Just navigate to the folder in terminal.
 - Run `gulp watch & gulp serve`
 
+**Reference for mac permission**<br/>
+<img src="https://satheesh-design.in/static-web-app/sw-privacy.png" style="max-width: 100%;">
 <br/>
 
 ## Mixins
