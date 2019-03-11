@@ -3,12 +3,7 @@
 
 **Our Goal**
 
-If you want to start a new static web project, this is useful for you. It has predefined settings for SCSS to CSS compilation, Live Reload,  starting a local server.
-It also has an advantage of predefined mixins for the following
-- Background
-- Buttons
-- Prefixer
-- Media queries 
+Our goal is to create a static web page set up, working with SCSS. There are some dependencies to compile the SCSS to CSS, starting a local server and also browser live reload. Here is the boilerplate to automate all this process in simple steps. It also includes documentation for some mixins. Which made you easy to play :stuck_out_tongue_winking_eye: with mixins.
 
 <br/>
 
