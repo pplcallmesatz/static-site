@@ -2,7 +2,6 @@
 If you want to start a new static web project, this is useful for you. It has predefined settings for SCSS to CSS compilation, Live Reload,  starting a local server.
 
 <br/>
-<br/>
 
 ## System Requirements
 For using this service,  your machine needs to have Node.js and Gulp pre-installed. If you did didn't have those please find the installation method. 
@@ -11,10 +10,7 @@ For using this service,  your machine needs to have Node.js and Gulp pre-install
 
 **Note:** You just need to install Node.js and Gulp, no need to create a project. 
 
-
 <br/>
-<br/>
-
 
 Documentation
 -------------
@@ -22,8 +18,6 @@ Documentation
 2. [Project setup - Using Mac app (This is only for mac users)](#mac-app)
 3. [Mixins](#mixins)
 
-<br/>
-<br/>
 <br/>
 
 ## Project manual setup
@@ -46,22 +40,16 @@ That's it you are all set, open http://localhost:3000/ in the browser. If any ch
 **:clap: you are all set...** open http://localhost:3000/ in the browser to view the page.
 
 <br/>
-<br/>
-<br/>
 
 ## Mac app
 **:computer:**
 This is only of the Mac users, simply download the mac app and run.
-Since it needs to access external app(terminal) we need to give permission to allow access.
+Since it needs to access external app(terminal) we need to give permission to allow access(Reference in attachment).
 
 Starting the project for next time, you didn't need to run above app. 
 - Just navigate to the folder in terminal.
 - Run `gulp watch & gulp serve`
 
-**Reference in attachment.**
-
-<br/>
-<br/>
 <br/>
 
 ## Mixins
@@ -71,8 +59,7 @@ We have created mixins for most commonly used properties.
 You can see the full [documentation here.](https://github.com/swasatz/static-site/tree/master/scss)
 
 <br/>
-<br/>
-<br/>
+<br/> 
 
 Licensing
 ---------
