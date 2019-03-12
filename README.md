@@ -20,6 +20,10 @@ Documentation
 1. [Project setup - Manually](#project-manual-setup)
 2. [Project setup - Using Mac app (This is only for mac users)](#mac-app)
 3. [Mixins](#mixins)
+  - [Background](https://github.com/swasatz/static-site/tree/master/scss#background)
+  - [Button](https://github.com/swasatz/static-site/tree/master/scss#button)
+  - [Media Queries](https://github.com/swasatz/static-site/tree/master/scss#media-queries)
+  - [Prefixer](https://github.com/swasatz/static-site/tree/master/scss#prefixer)
 
 <br/>
 
@@ -60,7 +64,7 @@ Starting the project for next time, you didn't need to run above app.
 ## Mixins
 The main purpose of a mixin is to make a set of properties reusable. Like `SCSS/SASS` variables (where you define your values on a single location), Sass mixins allow you to define properties on a single location.
 
-We have created mixins for most commonly used properties.
+We have created mixins for most commonly used properties like `Button`, `Background`,`Prefixer`, `Media Queries`.
 You can see the full [documentation here.](https://github.com/swasatz/static-site/tree/master/scss)
 
 <br/>
