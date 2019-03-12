@@ -2,7 +2,7 @@
 
 ## Our Goal
 
-Our goal is to create a static web page set up, working with SCSS. There are some dependencies to compile the SCSS to CSS, starting a local server and also browser live reload. Here is the boilerplate to automate all this process in simple steps. It also includes documentation for some mixins. Which made you easy to play :stuck_out_tongue_winking_eye: with mixins.
+Our goal is to create a static web page set up, working with SCSS. There are some dependencies to compile the SCSS to CSS, starting a local server and also browser live reload. Here is the boilerplate to automate all this process in simple steps. It also includes documentation for some mixins. Which made you easy to play with mixins.
 
 <br/>
 
@@ -58,7 +58,7 @@ Starting the project for next time, you didn't need to run above app.
 <br/>
 
 ## Mixins
-The main purpose of a mixin is to make a set of properties reusable. Like Sass variables (where you define your values on a single location), Sass mixins allow you to define properties on a single location.
+The main purpose of a mixin is to make a set of properties reusable. Like `SCSS/SASS` variables (where you define your values on a single location), Sass mixins allow you to define properties on a single location.
 
 We have created mixins for most commonly used properties.
 You can see the full [documentation here.](https://github.com/swasatz/static-site/tree/master/scss)
@@ -68,9 +68,9 @@ You can see the full [documentation here.](https://github.com/swasatz/static-sit
 
 Licensing
 ---------
-Copyright © 2019, Satheesh Kumar S
-Organization [**Mallow Technologies Private Limited**](https://www.mallow-tech.com/)
-All rights reserved.
+Copyright © 2019, [Satheesh Kumar S](https://satheesh-design.in/)<br/>
+Organization [**Mallow Technologies Private Limited**](https://www.mallow-tech.com/)<br/>
+All rights reserved.<br/>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -82,6 +82,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <br/>
 
 ## Social
+You can also find me at:
 :point_right:<a href="https://dribbble.com/satheesh_design" target="_blank">Dribbble</a>:point_left:<br/>
 :point_right:<a href="https://codepen.io/satheesh_design/" target="_blank">Codepen</a>:point_left:<br/>
 :point_right:<a href="https://stackoverflow.com/users/5746301/satheesh-kumar" target="_blank">Stackoverflow</a>:point_left:<br/>
