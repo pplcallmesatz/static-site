@@ -20,10 +20,10 @@ Documentation
 1. [Project setup - Manually](#project-manual-setup)
 2. [Project setup - Using Mac app (This is only for mac users)](#mac-app)
 3. [Mixins](#mixins)
-  - [Background](https://github.com/swasatz/static-site/tree/master/scss#background)
-  - [Button](https://github.com/swasatz/static-site/tree/master/scss#button)
-  - [Media Queries](https://github.com/swasatz/static-site/tree/master/scss#media-queries)
-  - [Prefixer](https://github.com/swasatz/static-site/tree/master/scss#prefixer)
+     - [Background](https://github.com/swasatz/static-site/tree/master/scss#background)
+     - [Button](https://github.com/swasatz/static-site/tree/master/scss#button)
+     - [Media Queries](https://github.com/swasatz/static-site/tree/master/scss#media-queries)
+     - [Prefixer](https://github.com/swasatz/static-site/tree/master/scss#prefixer)
 
 <br/>
 
