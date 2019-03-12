@@ -86,7 +86,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <br/>
 
 ## Social
-You can also find me at:
+You can also find me at:<br/>
 :point_right:<a href="https://dribbble.com/satheesh_design" target="_blank">Dribbble</a>:point_left:<br/>
 :point_right:<a href="https://codepen.io/satheesh_design/" target="_blank">Codepen</a>:point_left:<br/>
 :point_right:<a href="https://stackoverflow.com/users/5746301/satheesh-kumar" target="_blank">Stackoverflow</a>:point_left:<br/>
