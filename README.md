@@ -45,10 +45,10 @@ Documentation
 
 That's it you are all set, open http://localhost:3000/ in the browser. If any changes are done in the code, the browser automatically reloads and update the latest changes.
 
-**(or) use shorthand method to avoid too much terminal commands**
+**(or) use shorthand method to avoid too much terminal commands (only for mac users)**
 
 1. Follow first two points
-2. Run the given script in the terminal(only for iOS users) `git clone https://github.com/swasatz/static-site.git && mv static-site/* . && rm -rf static-site && npm install && gulp watch & gulp serve`
+2. Run the given script in the terminal `git clone https://github.com/swasatz/static-site.git && mv static-site/* . && rm -rf static-site && npm install && gulp watch & gulp serve`
 
 **:clap: you are all set...** open http://localhost:3000/ in the browser to view the page.
 
