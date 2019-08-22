@@ -31,7 +31,13 @@ Documentation
 1. Open terminal
 2. Navigate to the project folder in terminal `cd your-project-folder-path`
 3. Clone the repository `git clone https://github.com/swasatz/static-site.git`
-4. Move the contents from the cloned folder to parent `mv static-site/* . `
+4. Move the contents from the cloned folder to parent 
+     - For Mac users: `mv static-site/* . `
+     - For Windows user follow the given steps:
+          - Move to the static folder `cd static-site`
+          - Run `move *.* ..`
+          - Then run `for /r . %a in (.) do @move %a ..`
+
 5. Remove the empty cloned folder `rm -rf static-site`
 6. Install all dependencies `npm install`
 7. To compile SCSS to CSS run `gulp scss` , to watch each and every change in files(HTML, CSS, js) run `gulp watch`
@@ -42,7 +48,7 @@ That's it you are all set, open http://localhost:3000/ in the browser. If any ch
 **(or) use shorthand method to avoid too much terminal commands**
 
 1. Follow first two points
-2. Run the given script in the terminal `git clone https://github.com/swasatz/static-site.git && mv static-site/* . && rm -rf static-site && npm install && gulp watch & gulp serve`
+2. Run the given script in the terminal(only for iOS users) `git clone https://github.com/swasatz/static-site.git && mv static-site/* . && rm -rf static-site && npm install && gulp watch & gulp serve`
 
 **:clap: you are all set...** open http://localhost:3000/ in the browser to view the page.
 
